@@ -27,10 +27,10 @@ import com.google.firebase.firestore.QuerySnapshot;
 
 public class MainActivity extends AppCompatActivity {
 
-    private FirebaseFirestore db = FirebaseFirestore.getInstance();
-    private CollectionReference bookRef = db.collection("Books");
-    private String TAG = "FireStore";
-    private String RECTAG = "FireStore Recycler";
+    private final FirebaseFirestore db = FirebaseFirestore.getInstance();
+    private final CollectionReference bookRef = db.collection("Books");
+    private final String TAG = "FireStore";
+    private final String RECTAG = "FireStore Recycler";
     private FbHelper fbHelper;
 
     //UI
