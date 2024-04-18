@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="add_book">Add Book</string>
+    <string name="name">Name</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="isbn">ISBN</string>
+    <string name="price">Price</string>
+    <string name="library">Library</string>
+    <string name="add_book_to_firestore">Add Book To FireStore</string>
+</resources>

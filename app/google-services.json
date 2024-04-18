@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "243651889102",
+    "project_id": "firestoredemo-4a720",
+    "storage_bucket": "firestoredemo-4a720.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243651889102:android:c84d1a173e635c84afcd9f",
+        "android_client_info": {
+          "package_name": "au.scottmann.firestoredemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMd-mRufZg54xVBGrOPbbaLYQ0BM7uCXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243651889102:android:36903453ed17ed50afcd9f",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMd-mRufZg54xVBGrOPbbaLYQ0BM7uCXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
